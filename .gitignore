@@ -1,3 +1,4 @@
+venv/
 templates.json
 app.spec
 build/
